@@ -6,3 +6,8 @@
 - 碰到的bug及解决方法
 
 如有不足之处，望指出。
+
+- [01.nextflow_publishDir使用心得](soft_use/01.nextflow_publishDir使用心得.md)
+- [02.multiqc自定义报告](soft_use/02.multiqc自定义报告.md)
+- [03.扁平化数据](reading/03.扁平化数据.md)
+- ...
