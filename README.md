@@ -10,4 +10,7 @@
 - [01.nextflow_publishDir使用心得](soft_use/01.nextflow_publishDir使用心得.md)
 - [02.multiqc自定义报告](soft_use/02.multiqc自定义报告.md)
 - [03.扁平化数据](reading/03.扁平化数据.md)
+- [04.nextflow中docker镜像的上传](soft_use/04.nextflow中docker镜像的上传.md)
+- [05.snpEff构建数据库](fix_bugs/05.snpEff构建数据库.md)
+- [06.统计位点覆盖](reading/06.统计位点覆盖.md)
 - ...
