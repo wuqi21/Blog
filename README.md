@@ -13,4 +13,7 @@
 - [04.nextflow中docker镜像的上传](soft_use/04.nextflow中docker镜像的上传.md)
 - [05.snpEff构建数据库](fix_bugs/05.snpEff构建数据库.md)
 - [06.统计位点覆盖](reading/06.统计位点覆盖.md)
+- [07.Flair使用](soft_use/07.Flair使用.md)
+- [08.B细胞发育图谱的映射](soft_use/08.B细胞发育图谱的映射.md)
+- [09.共识矩阵分解](soft_use/09.共识矩阵分解.md)
 - ...
